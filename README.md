@@ -1,6 +1,6 @@
 # PROJECTS-WORKED-ON
 
-## (Data analysis, 2020)[https://github.com/Golder12/Recess_data-analysis]: 
+## ([Data analysis, 2020]([url](https://github.com/Golder12/Recess_data-analysis))): 
 Analyzed the customer data of a call-centre business to detect recent churn rate, reasons for churn, project future churn rate and recommendations on how to prevent it using PowerBI
 ## (Advanced OOP mini project, 2021)[https://github.com/Golder12/AOOP_assignment]: 
 The aim of this project was to develop a Java windows application to solve issues of teachers and students in a school such as recording students’ marks and providing students with a timetable.
