@@ -9,4 +9,5 @@ This is a mini viz project that we tried out to apply our visualisation skills.
 ## [Linear Regression model](https://github.com/Golder12/Linear-regression-project):
 This is a linear regression model used to help in determining the strength of concrete.
 ## [Machine Learning Project(Logistic, KNN, SVM)](https://github.com/Golder12/Machine-Learning-Project-1):
-This was a class project where a dataset of one's choice was selected and three predictive models were built for this dataset and compared.
+This was a class project where a dataset and problem of one's choice was selected and three predictive models were built for this dataset and compared.
+The problem in this case is predicting who would may or may not default on a loan given.
