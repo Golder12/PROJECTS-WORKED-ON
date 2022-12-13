@@ -8,3 +8,5 @@ A mini project that analyses student test scores to determine whether test prepa
 This is a mini viz project that we tried out to apply our visualisation skills.
 ## [Linear Regression model](https://github.com/Golder12/Linear-regression-project):
 This is a linear regression model used to help in determining the strength of concrete.
+##Machine Learning Project(Logistic, KNN, SVM) (https://github.com/Golder12/Machine-Learning-Project-1):
+This was a class project where a dataset of one's choice was selected and three predictive models were built for this dataset and compared.
